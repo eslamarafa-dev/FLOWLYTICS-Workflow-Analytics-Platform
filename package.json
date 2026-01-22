@@ -1,0 +1,32 @@
+{
+  "name": "flowlytics",
+  "version": "1.0.0",
+  "description": "Workflow Analytics Platform - A production-ready dashboard for team performance analysis",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve",
+    "start": "npx serve -p 3000",
+    "preview": "npx serve -p 8080"
+  },
+  "keywords": [
+    "react",
+    "dashboard",
+    "analytics",
+    "workflow",
+    "tailwind",
+    "ui-ux",
+    "performance",
+    "i18n",
+    "rtl"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR-USERNAME/flowlytics.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR-USERNAME/flowlytics/issues"
+  },
+  "homepage": "https://YOUR-USERNAME.github.io/flowlytics/"
+}
